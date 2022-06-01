@@ -1,0 +1,31 @@
+body {
+  background-color: #D6E2F0;
+  text-align: center;
+}
+
+h4 {
+  margin: 10px 15px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  margin: 5px 10px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+}
+
+.container {
+  padding: 7% 30%;
+}
+
+.main-col {
+  background-color: #FFFFFF;
+  padding: 5% 5%;
+  border-radius: 20px;
+}
+
+.img-qrcode {
+  width: 100%;
+  border-radius: 20px;
+}
